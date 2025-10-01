@@ -1,0 +1,441 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b4c69f166939345.Y3JvcCwzNDUxLDI3MDAsNjc1LDA.jpg" group-title="Shoq", "Womens_Cricket_World_Cup_2025"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+https://live.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+
+#EXTINF:-1 tvg-id="24channel" tvg-logo="" group-title="Shoq","24_CHANNEL"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
+http://live3.shoq.com.pk/live/eds/24_Channel/DASH/24_Channel.mpd
+
+#EXTINF:-1 tvg-id="8xm" tvg-logo="" group-title="Shoq","8XM"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
+http://live3.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
+
+#EXTINF:-1 tvg-id="92news" tvg-logo="" group-title="Shoq","92 news"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d37708af12e1605d130b49d58dc7433d:41612caef195c97ab246b64a45b4ba18
+http://live2.shoq.com.pk/live/eds/92_News/DASH/92_News.mpd
+
+#EXTINF:-1 tvg-id="aplus" tvg-logo="" group-title="Shoq","A_PLUS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54aa47ddf8d6cbc147b7e61854d06dbb:afbef7ea4cce38bd7c84303bb7246756
+http://live3.shoq.com.pk/live/eds/A_Plus/DASH/A_Plus.mpd
+
+#EXTINF:-1 tvg-id="aajentertinment" tvg-logo="" group-title="Shoq","AAJ_ENTERTINMENT"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9f250ad063063dce2b66bc97b8a7be3:9b4b55014b2cccf176a3388ef79d20ec
+http://live3.shoq.com.pk/live/eds/Aaj_Entertainment/DASH/Aaj_Entertainment.mpd
+
+#EXTINF:-1 tvg-id="aajnews" tvg-logo="" group-title="Shoq","AAJ_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be2bd90ba46603e147f7e2c75ed367bf:d826e19c7a637a80d3ba9299ad2b822d
+http://live3.shoq.com.pk/live/eds/Aaj_News/DASH/Aaj_News.mpd
+
+#EXTINF:-1 tvg-id="aantv" tvg-logo="" group-title="Shoq","AAN_TV"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e6eb6c5fc1753defa332911efb51f74:2eb8d7fa82d8e1d2c08aecb26ce109fd
+http://live3.shoq.com.pk/live/eds/AAN_TV/DASH/AAN_TV.mpd
+
+#EXTINF:-1 tvg-id="abbtakknews" tvg-logo="" group-title="Shoq","ABB_TAKK_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=971afc4c7b4a29686ee22a282f50e9da:f204a8ed43fb4efd3cea8115b56f5884
+http://live3.shoq.com.pk/live/eds/Abb_Takk_News/DASH/Abb_Takk_News.mpd
+
+#EXTINF:-1 tvg-id="alief" tvg-logo="" group-title="Shoq","alief"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d681a46645400e0d78560f86ada16d28:29af029d5f97c3129549a3fd853a2fe6
+http://live1.shoq.com.pk/live/eds/Alief_TV/DASH/Alief_TV.mpd
+
+#EXTINF:-1 tvg-id="arydigital" tvg-logo="" group-title="Shoq","ARY_DIGITAL"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f0faf009b661d2f70e9888759f56884:8179b66d3efc3e98a82b1db028803255
+http://live3.shoq.com.pk/live/eds/ARY_Digital/DASH/ARY_Digital.mpd
+
+#EXTINF:-1 tvg-id="arynews" tvg-logo="" group-title="Shoq","ARY_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fa84110cc26554aeb7c9530e4a2b980:8abac986087083230fcdc1a3b365e74a
+http://live3.shoq.com.pk/live/eds/ARY_News/DASH/ARY_News.mpd
+
+#EXTINF:-1 tvg-id="aryzindagi" tvg-logo="" group-title="Shoq","ARY_ZINDAGI"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20
+http://live3.shoq.com.pk/live/eds/ARY_Zindagae/DASH/ARY_Zindagae.mpd
+
+#EXTINF:-1 tvg-id="atvhd" tvg-logo="" group-title="Shoq","atv hd"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68b179b030439f95f4e361b44ca23c42:81ea6866f05e90d2f95239fd84550d44
+http://live1.shoq.com.pk/live/eds/ATV/DASH/ATV.mpd
+
+#EXTINF:-1 tvg-id="b4umoviesapac" tvg-logo="" group-title="Shoq","B4U_MOVIES_APAC"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
+http://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
+
+#EXTINF:-1 tvg-id="bolenter" tvg-logo="" group-title="Shoq","BOL_ENTER"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945
+http://live3.shoq.com.pk/live/eds/Bol_Entertainment/DASH/Bol_Entertainment.mpd
+
+#EXTINF:-1 tvg-id="bolnews" tvg-logo="" group-title="Shoq","BOL_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45f5c3607b89a29e9b7495eb011a3b0e:3f2aaf642deeb4ead9daa9c941bac1e8
+http://live3.shoq.com.pk/live/eds/Bol_News/DASH/Bol_News.mpd
+
+#EXTINF:-1 tvg-id="capitaltv" tvg-logo="" group-title="Shoq","capital tv"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c607346c080519f546eba26e357dc0a:a0dfa73302246bd0232b0c7e338cd3c7
+http://live3.shoq.com.pk/live/eds/Capital_TV/DASH/Capital_TV.mpd
+
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="" group-title="Shoq","cgtn"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09021e994333a13cd259a7af953daec0:33a056df2c9db0e39498c45d751af327
+https://live.shoq.com.pk/live/eds/CGTN/DASH/CGTN.mpd
+
+#EXTINF:-1 tvg-id="championtv" tvg-logo="" group-title="Shoq","champion tv"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0542b00cbbf109d6c67535d8ac1b8dfc:128848c61925095d251a14976673655a
+http://live1.shoq.com.pk/live/eds/ChampionTV/DASH/ChampionTV.mpd
+
+#EXTINF:-1 tvg-id="city21" tvg-logo="" group-title="Shoq","CITY_21"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1ac1dd655f85140d18f7c0fc2617345:9ecaefa3a20f1a7b7b157633832a79a3
+http://live3.shoq.com.pk/live/eds/City_21/DASH/City_21.mpd
+
+#EXTINF:-1 tvg-id="city42" tvg-logo="" group-title="Shoq","CITY_42"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bb15c2db2a7bf86ffa5375cd308e2aa:c58cfa4890b72b939bfd64c95f94f7aa
+http://live3.shoq.com.pk/live/eds/City_42/DASH/City_42.mpd
+
+#EXTINF:-1 tvg-id="dawnnews" tvg-logo="" group-title="Shoq","DAWN_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e81332129957ee4b3b16ebf04abcb45:92754de589fbd6d3b288bb30d66c7e06
+http://live3.shoq.com.pk/live/eds/Dawn_News/DASH/Dawn_News.mpd
+
+#EXTINF:-1 tvg-id="dunyanews" tvg-logo="" group-title="Shoq","DUNYA_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb1e0185d33f69df1187da4cb2fcf390:9da941665723e2e21d422d113e3e3eca
+http://live3.shoq.com.pk/live/eds/Dunya_News/DASH/Dunya_News.mpd
+
+#EXTINF:-1 tvg-id="expressenter" tvg-logo="" group-title="Shoq","EXPRESS_ENTER"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=382862deb4623a355bfaf37550d10ad1:423b3b3d2110b6fe0115d0c64bb6f050
+http://live3.shoq.com.pk/live/eds/Express_Entertainment/DASH/Express_Entertainment.mpd
+
+#EXTINF:-1 tvg-id="expressnews" tvg-logo="" group-title="Shoq","EXPRESS_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4edc3a4011fb346018e4033377b20f22:5844c84e63b10e08cdb745eef7386ea6
+http://live3.shoq.com.pk/live/eds/Express_News/DASH/Express_News.mpd
+
+#EXTINF:-1 tvg-id="filmworld" tvg-logo="" group-title="Shoq","FILM_WORLD"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=501c219f6640b42b454a1fc3bda48a7e:d547a7eaac74ae83cadcaddb6243978f
+http://live3.shoq.com.pk/live/eds/Film_World/DASH/Film_World.mpd
+
+#EXTINF:-1 tvg-id="filmax" tvg-logo="" group-title="Shoq","FILMAX"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
+http://live3.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
+
+#EXTINF:-1 tvg-id="geohd" tvg-logo="" group-title="Shoq","GEO_HD"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4150a88a441372bcc8899aee17df71f9:e43b95c25267faea20b2582e978f7f70
+http://live3.shoq.com.pk/live/eds/Geo_Entertainment/DASH/Geo_Entertainment.mpd
+
+#EXTINF:-1 tvg-id="geokahani" tvg-logo="" group-title="Shoq","GEO_KAHANI"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43cc37b69b742178c83482f4a5aea4b:f3f8f173b8efd7427042aad82c60714e
+http://live3.shoq.com.pk/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd
+
+#EXTINF:-1 tvg-id="geonews" tvg-logo="" group-title="Shoq","GEO_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4
+http://live3.shoq.com.pk/live/eds/Geo_News/DASH/Geo_News.mpd
+
+#EXTINF:-1 tvg-id="geotez" tvg-logo="" group-title="Shoq","GEO_TEZ"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b40cce0e68618c5da47ce07254c89ed9:b0662737306d27bb8b605e3580da6b98
+http://live3.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd
+
+#EXTINF:-1 tvg-id="gnnhd" tvg-logo="" group-title="Shoq","gnn hd"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f99ae941e279c32064ee12f2a5d40811:23eaa005768bdc59109d0352b1f2994b
+http://live3.shoq.com.pk/live/eds/GNN/DASH/GNN.mpd
+
+#EXTINF:-1 tvg-id="hnowtv" tvg-logo="" group-title="Shoq","h now tv"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0924998b1c5ae9bfe86eec915fb9bfea:a758da4984d760610fbe91f33f065240
+https://live.shoq.com.pk/live/eds/H_Now_TV/DASH/H_Now_TV.mpd
+
+#EXTINF:-1 tvg-id="hummasala" tvg-logo="" group-title="Shoq","hum masala"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e199a420c110859e4284d379d224a2a8:646fb37abf3494e02b38e3ce354f1ae3
+http://live.shoq.com.pk/live/eds/Hum_Masala/DASH/Hum_Masala.mpd
+
+#EXTINF:-1 tvg-id="humsitary" tvg-logo="" group-title="Shoq","hum sitary"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=760f2a61ae16fe8eb1de6748b1b69030:291d9f7b99e41bf094cf01f65396f2e9
+http://live3.shoq.com.pk/live/eds/HUM_Sitaray/DASH/HUM_Sitaray.mpd
+
+#EXTINF:-1 tvg-id="humnews" tvg-logo="" group-title="Shoq","HUM_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1c67ca001fd4c7d72ea38291d0c36ea:8b1462cce1f9e03305d7d6df3409cb6b
+http://live3.shoq.com.pk/live/eds/Hum_News/DASH/Hum_News.mpd
+
+#EXTINF:-1 tvg-id="humtv" tvg-logo="" group-title="Shoq","HUM_TV"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
+http://live3.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
+
+#EXTINF:-1 tvg-id="inplus" tvg-logo="" group-title="Shoq","in plus"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0564e9c46496dd169dfcd6908119eca2:51b68ec627d070c226ecacc9d4899491
+http://live1.shoq.com.pk/live/eds/InPLus_Pakistan/DASH/InPLus_Pakistan.mpd
+
+#EXTINF:-1 tvg-id="jalwa" tvg-logo="" group-title="Shoq","jalwa"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=603b7b19e77808ab634771509b1c7e56:9935dd9c81f9e5478c76bee7100b4a28
+http://live2.shoq.com.pk/live/eds/Jalwa/DASH/Jalwa.mpd
+
+#EXTINF:-1 tvg-id="lahorerang" tvg-logo="" group-title="Shoq","lahore rang"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df21052e01f72a3d2afb26d921b268a3:f56a59741bee6163e0b98215ba9ab8e7
+http://live1.shoq.com.pk/live/eds/Lahore_Rang/DASH/Lahore_Rang.mpd
+
+#EXTINF:-1 tvg-id="lahorenews" tvg-logo="" group-title="Shoq","LAHORE_NEWS"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=862f51c48d8e562377602b63393215ef:9b96cb09903396cb5cfaa7253b103d26
+http://live3.shoq.com.pk/live/eds/Lahore_News_HD/DASH/Lahore_News_HD.mpd
+
+#EXTINF:-1 tvg-id="ltnfamily" tvg-logo="" group-title="Shoq","LTN_FAMILY"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99a24c82f16a3792bd21a262fea52a0:bf418e034623e18dc0102dc3731e43d8
+http://live3.shoq.com.pk/live/eds/LTN_Family/DASH/LTN_Family.mpd
+
+#EXTINF:-1 tvg-id="minimax" tvg-logo="" group-title="Shoq","MINIMAX"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034c919e34f1de07c325a7b23ad451a0:cf88732938381b02d3fbfa09de6860ae
+http://live3.shoq.com.pk/live/eds/Minimax/DASH/Minimax.mpd
+
+#EXTINF:-1 tvg-id="movieone" tvg-logo="" group-title="Shoq","movie one"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f65c4e993a44d0f2d2a6a0314805c5a:f75fb4689475fcefd538ac9064858beb
+http://live1.shoq.com.pk/live/eds/Movie_One/DASH/Movie_One.mpd
+
+#EXTINF:-1 tvg-id="neotv" tvg-logo="" group-title="Shoq","NEO_TV"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8508ff2a5f04345f3353e112d7ce2c09:73ed2d9eb8287f8a56b73e6243c57755
+http://live3.shoq.com.pk/live/eds/Neo_TV/DASH/Neo_TV.mpd
+
+#EXTINF:-1 tvg-id="newsone" tvg-logo="" group-title="Shoq","NEWS_ONE"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a77b3c9d1a352d759aa88c6d2490b07d:dfd749936ca6fbdbb580135cd2bc623e
+http://live3.shoq.com.pk/live/eds/News_One/DASH/News_One.mpd
+
+#EXTINF:-1 tvg-id="paighamtv" tvg-logo="" group-title="Shoq","PAIGHAM_TV"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a15c0eb8af0f8dbf3ce80f2e8a4ad3f:2f1221c47815d301f217e5a70a2040da
+http://live3.shoq.com.pk/live/eds/Paigham_TV/DASH/Paigham_TV.mpd
+
+#EXTINF:-1 tvg-id="planetfun" tvg-logo="" group-title="Shoq","PLANET_FUN"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55f8fb7e199225c06268117fe3ff232a:30f8dcb48a1b4a7b60ae04b88fe5397a
+http://live3.shoq.com.pk/live/eds/Planet_Fun/DASH/Planet_Fun.mpd
+
+#EXTINF:-1 tvg-id="ptvhome" tvg-logo="" group-title="Shoq","ptv home"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10792300ce27b00e3b4e93574276211b:03bc9245db4941932656ba0c11898a41
+https://live.shoq.com.pk/live/eds/PTVHome_Entertainment/DASH/PTVHome_Entertainment.mpd
+
+#EXTINF:-1 tvg-id="ptvnews" tvg-logo="" group-title="Shoq","ptv news"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89bae7f198d4e9864f140c9e28d2b42e:fb191b37d82118b60d1457f46d5f2306
+http://live2.shoq.com.pk/live/eds/PTV_News/DASH/PTV_News.mpd
+
+#EXTINF:-1 tvg-id="ptvworld" tvg-logo="" group-title="Shoq","ptv world"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cf87003791a76d41a95537f78622629:8bd8d6bf2acc227057aa6143ca83952d
+http://live2.shoq.com.pk/live/eds/PTV_World/DASH/PTV_World.mpd
+
+#EXTINF:-1 tvg-id="qtv" tvg-logo="" group-title="Shoq","QTV"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b4be48e99f2f376cc19004b813202a2:cc100b986e8c6f0da97268f9390da5d1
+http://live3.shoq.com.pk/live/eds/QTV/DASH/QTV.mpd
+
+#EXTINF:-1 tvg-id="samaa" tvg-logo="" group-title="Shoq","samaa"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=802ca336b9a42e49804eaa1cdf47b885:cd70a28948e7cdb928075af2879d141f
+https://live.shoq.com.pk/live/eds/Samaa_News/DASH/Samaa_News.mpd
+
+#EXTINF:-1 tvg-id="southasiaglobal" tvg-logo="" group-title="Shoq","south asia global"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df21052e01f72a3d2afb26d921b268a3:f56a59741bee6163e0b98215ba9ab8e7
+http://live1.shoq.com.pk/live/eds/SAG/DASH/SAG.mpd
