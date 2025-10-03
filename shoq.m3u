@@ -205,6 +205,36 @@ http://live2.shoq.com.pk/live/eds/PTV_World/DASH/PTV_World.mpd
 #KODIPROP:inputstream.adaptive.license_key=802ca336b9a42e49804eaa1cdf47b885:cd70a28948e7cdb928075af2879d141f
 https://live.shoq.com.pk/live/eds/Samaa_News/DASH/Samaa_News.mpd
 
+#EXTINF:-1 tvg-id="specialtv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/SPECIALTVLIVEY2016MUR/SPECIALTVLIVEY2016MUR-474x677-PST.jpg" group-title="Shoq News",SPECIAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d4db9a517e72c0b4667ed17a846ff1:3e0169b30c801379c93df0c1cc8c6e35
+https://live.shoq.com.pk/live/eds/Special_TV/DASH/Special_TV.mpd
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/ALJAZEERAENGLISHCATCHUPY2023M/ALJAZEERAENGLISHCATCHUPY2023M-474x677-PST.jpg" group-title="Shoq News",Aljazeera 
+https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NDk0OTA0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BbGphemVlcmEvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkwMjE4ZTNmMTU1OWE3MGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.6zQncXxhuWGHjpIQkkw2r6iTZRbDL3bNdA7rHbt_E94pofwURJ6s1GQEyEzc6nVPRhNLpSyar_an8Jd212lObQ==/live/eds/Aljazeera/DASH/Aljazeera.mpd
+
+#EXTINF:-1 tvg-id="sunnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/SUNNEWSY2000MUR/SUNNEWSY2000MUR-474x677-PST.jpg" group-title="Shoq News",Sun News
+https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NDk4ODk4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9TdW5fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYWQ4NmZjMjE1YmU0MmY0MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.dfXG3Agjm60hsp97JWW-p83O5EVuPSYd-pVjxc6i5zbfdraixxKe60rznrHyj3FA2H9DQFlPO7sAUel9dVYnrg==/live/eds/Sun_News/DASH/Sun_News.mpd
+
+#EXTINF:-1 tvg-id="khybernews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/KHYBERNEWSY2019MPS/KHYBERNEWSY2019MPS-474x677-PST.jpg" group-title="Shoq News",Khyber News Pashto
+https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMDcyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9LaHliZXJfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiN2UwNTNmOTcwZjMwNzc5YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.vhfMcbAIjEjuCo5KFQBRQlsnVC44euH6IOYS88XjHFkaqcJpVeh0NKVsg9OedUbddQEtcXxktpgFSqrfF4x8FQ==/live/eds/Khyber_News/DASH/Khyber_News.mpd
+
+#EXTINF:-1 tvg-id="mashriqtv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/MASHRIQTVY2015MPS/MASHRIQTVY2015MPS-474x677-PST.jpg" group-title="Shoq News",Mashriq TV Pashto
+https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMzU3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9NYXNocmlxX1RWL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiJmNTJlZmViMTMwNzNjMmFkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.ClHRCnlirLk2t_wirE8e0N-Sb_LNhMRSTNvHbd-rAGqAPRB8AcCw6xWGZ8elGA_8HmP7gX4hj-TIotuH1uXLtw==/live/eds/Mashriq_TV/DASH/Mashriq_TV.mpd
+
+#EXTINF:-1 tvg-id="abnnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/ABNNEWSY2023MUR/ABNNEWSY2023MUR-474x677-PST.jpg" group-title="Shoq News",ABN News
+https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMTcyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BQk5fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMzU0YjE4YTUzMDNjZmVmYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.YzbOGV5QVYH-BZPaWjiP9bh9Vy-5NPSGUURjm5b6LUjWeSFaU_NxvdQptdP_ZREw8L3qapfzB6Af_MOAwnOE5A==/live/eds/ABN_News/DASH/ABN_News.mpd
+
+#EXTINF:-1 tvg-id="ptvnational" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/PTVNATIONALY2005MUR/PTVNATIONALY2005MUR-474x677-PST.jpg" group-title="Shoq News",PTV National
+https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMjMyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9QVFZfTmF0aW9uYWwvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg2ZmNmZWM1OTQxMTY3YWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.RqVvO5kg3EBPVqO4VWg6A3Dgp9pa9sz9Rbz5sIUB25aeGV358ne04OJ5Wo08FkpzhczUC5AHbaJ3akHdaTLgPA==/live/eds/PTV_National/DASH/PTV_National.mpd
+
+#EXTINF:-1 tvg-id="gtvnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/GTVY2018MUR/GTVY2018MUR-474x677-PST.jpg" group-title="Shoq News",Gtv News
+https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMjc0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ4MzFmOWRmZTJlZmQyMGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.Ili-GO4Uj8ZASS5W00kmzpDbIF2xysVCETAok32CJG1kHEDxI9x1nkN00Uij12xF9qAFLky48xkKuzVxt8_yuQ==/live/eds/GTV/DASH/GTV.mpd
+
+
 
 ########Kids########
 
@@ -389,6 +419,24 @@ http://live3.shoq.com.pk/live/eds/LTN_Family/DASH/LTN_Family.mpd
 #KODIPROP:inputstream.adaptive.license_key=10792300ce27b00e3b4e93574276211b:03bc9245db4941932656ba0c11898a41
 https://live.shoq.com.pk/live/eds/PTVHome_Entertainment/DASH/PTVHome_Entertainment.mpd
 
+#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/VENUSHDLIVEY2016MUR/VENUSHDLIVEY2016MUR-474x677-PST.jpg" group-title="Shoq Entertainment",VENUS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501e2250ccdecf98c25a5c10a32f1b3:ef8abbb914cf96e067d6d555e1a6525e
+https://live.shoq.com.pk/live/eds/Venus_HD/DASH/Venus_HD.mpd
+
+#EXTINF:-1 tvg-id="venusentertainment " tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/VENUSENTERTAINMENTLIVEY2006MUR/VENUSENTERTAINMENTLIVEY2006MUR-474x677-PST.jpg" group-title="Shoq Entertainment",Venus Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d32277dc60b7549d3e6f849520f6cc7d:7441b75358a68b98082903319b53d7d0
+https://live.shoq.com.pk/live/eds/Venus_Ent/DASH/Venus_Ent.mpd
+
+
+
 
 ########Education########
 
@@ -468,6 +516,7 @@ http://live.shoq.com.pk/live/eds/Hum_Masala/DASH/Hum_Masala.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=603b7b19e77808ab634771509b1c7e56:9935dd9c81f9e5478c76bee7100b4a28
 http://live2.shoq.com.pk/live/eds/Jalwa/DASH/Jalwa.mpd
+
 
 
 
