@@ -216,34 +216,34 @@ https://live.shoq.com.pk/live/eds/Samaa_News/DASH/Samaa_News.mpd
 https://live.shoq.com.pk/live/eds/Special_TV/DASH/Special_TV.mpd
 
 #EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/ALJAZEERAENGLISHCATCHUPY2023M/ALJAZEERAENGLISHCATCHUPY2023M-474x677-PST.jpg" group-title="Shoq News",Aljazeera 
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NDk0OTA0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BbGphemVlcmEvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkwMjE4ZTNmMTU1OWE3MGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.6zQncXxhuWGHjpIQkkw2r6iTZRbDL3bNdA7rHbt_E94pofwURJ6s1GQEyEzc6nVPRhNLpSyar_an8Jd212lObQ==/live/eds/Aljazeera/DASH/Aljazeera.mpd
+https://live1.shoq.com.pk/live/eds/Aljazeera/DASH/Aljazeera.mpd
 
 #EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/NHKWORLDENGLISHY2023M/NHKWORLDENGLISHY2023M-474x677-PST.jpg" group-title="Shoq News",NHK World 
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1MjM2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9OSEtfV29ybGQvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxYzJiMmIxN2Q3YWVkZmMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.sTEeaO3HVdGEozurAWxLZzrSAvUYA93uYcwVPxOq0lr4HwbT8GofxlqclwGJSF1k__Lbi-5b838C9DwwD8LIcw==/live/eds/NHK_World/DASH/NHK_World.mpd
+https://live3.shoq.com.pk/live/eds/NHK_World/DASH/NHK_World.mpd
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/BLOOMBERGY2023M/BLOOMBERGY2023M-474x677-PST.jpg" group-title="Shoq News",Bloomberg 
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1Mzk2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9CbG9vbWJlcmcvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIxZjA0OTJmNzdlYjM2YzkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.bndEDaJVpx70ueB4TUIo3U-bz7W0GECS981kBtlg77Z97hsa5pr4ilNRzKO6tvR4eNJqHbIedZ3vdHOkLMAs-w==/live/eds/Bloomberg/DASH/Bloomberg.mpd
+https://live3.shoq.com.pk/live/eds/Bloomberg/DASH/Bloomberg.mpd
 
 #EXTINF:-1 tvg-id="sunnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/SUNNEWSY2000MUR/SUNNEWSY2000MUR-474x677-PST.jpg" group-title="Shoq News",Sun News
-https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NDk4ODk4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9TdW5fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYWQ4NmZjMjE1YmU0MmY0MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.dfXG3Agjm60hsp97JWW-p83O5EVuPSYd-pVjxc6i5zbfdraixxKe60rznrHyj3FA2H9DQFlPO7sAUel9dVYnrg==/live/eds/Sun_News/DASH/Sun_News.mpd
+https://live2.shoq.com.pk/live/eds/Sun_News/DASH/Sun_News.mpd
 
 #EXTINF:-1 tvg-id="khybernews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/KHYBERNEWSY2019MPS/KHYBERNEWSY2019MPS-474x677-PST.jpg" group-title="Shoq News",Khyber News Pashto
-https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMDcyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9LaHliZXJfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiN2UwNTNmOTcwZjMwNzc5YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.vhfMcbAIjEjuCo5KFQBRQlsnVC44euH6IOYS88XjHFkaqcJpVeh0NKVsg9OedUbddQEtcXxktpgFSqrfF4x8FQ==/live/eds/Khyber_News/DASH/Khyber_News.mpd
+https://live2.shoq.com.pk/live/eds/Khyber_News/DASH/Khyber_News.mpd
 
 #EXTINF:-1 tvg-id="mashriqtv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/MASHRIQTVY2015MPS/MASHRIQTVY2015MPS-474x677-PST.jpg" group-title="Shoq News",Mashriq TV Pashto
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMzU3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9NYXNocmlxX1RWL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiJmNTJlZmViMTMwNzNjMmFkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.ClHRCnlirLk2t_wirE8e0N-Sb_LNhMRSTNvHbd-rAGqAPRB8AcCw6xWGZ8elGA_8HmP7gX4hj-TIotuH1uXLtw==/live/eds/Mashriq_TV/DASH/Mashriq_TV.mpd
+https://live1.shoq.com.pk/live/eds/Mashriq_TV/DASH/Mashriq_TV.mpd
 
 #EXTINF:-1 tvg-id="abnnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/ABNNEWSY2023MUR/ABNNEWSY2023MUR-474x677-PST.jpg" group-title="Shoq News",ABN News
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMTcyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BQk5fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMzU0YjE4YTUzMDNjZmVmYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.YzbOGV5QVYH-BZPaWjiP9bh9Vy-5NPSGUURjm5b6LUjWeSFaU_NxvdQptdP_ZREw8L3qapfzB6Af_MOAwnOE5A==/live/eds/ABN_News/DASH/ABN_News.mpd
+https://live1.shoq.com.pk/live/eds/ABN_News/DASH/ABN_News.mpd
 
 #EXTINF:-1 tvg-id="ptvnational" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/PTVNATIONALY2005MUR/PTVNATIONALY2005MUR-474x677-PST.jpg" group-title="Shoq News",PTV National
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMjMyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9QVFZfTmF0aW9uYWwvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg2ZmNmZWM1OTQxMTY3YWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.RqVvO5kg3EBPVqO4VWg6A3Dgp9pa9sz9Rbz5sIUB25aeGV358ne04OJ5Wo08FkpzhczUC5AHbaJ3akHdaTLgPA==/live/eds/PTV_National/DASH/PTV_National.mpd
+https://live3.shoq.com.pk/live/eds/PTV_National/DASH/PTV_National.mpd
 
 #EXTINF:-1 tvg-id="gtvnews" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/GTVY2018MUR/GTVY2018MUR-474x677-PST.jpg" group-title="Shoq News",Gtv News
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTAwMjc0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ4MzFmOWRmZTJlZmQyMGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.Ili-GO4Uj8ZASS5W00kmzpDbIF2xysVCETAok32CJG1kHEDxI9x1nkN00Uij12xF9qAFLky48xkKuzVxt8_yuQ==/live/eds/GTV/DASH/GTV.mpd
+https://live1.shoq.com.pk/live/eds/GTV/DASH/GTV.mpd
 
 #EXTINF:-1 tvg-id="publictv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/PUBLICTVLIVEY2023MUR/PUBLICTVLIVEY2023MUR-474x677-PST.jpg" group-title="Shoq News",Public Tv
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA2NDA0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9QdWJsaWNfVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZmYjdiMDFkZmFjMTQ1YjEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.EkR7u44kTJDiGqZZqmF3V4GnE90xDc4432B4PPF3umcOTuPRmWcwRm92u-j9Cqf1nio5ad4Y0h9hY8QmJ1fG3A==/live/eds/Public_TV/DASH/Public_TV.mpd
+https://live3.shoq.com.pk/live/eds/Public_TV/DASH/Public_TV.mpd
 
 
 
@@ -463,7 +463,7 @@ https://live.shoq.com.pk/live/eds/Venus_Ent/DASH/Venus_Ent.mpd
 https://live.shoq.com.pk/live/eds/Discover_Pakistan/DASH/Discover_Pakistan.mpd
 
 #EXTINF:-1 tvg-id="ktn " tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/KTNCATCHUPY2023MUR/KTNCATCHUPY2023MUR-474x677-PST.jpg" group-title="Shoq Entertainment",KTN
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1OTgxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9LVE4vREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmNWVlMGIzMTZlZTBhNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMxIiwic291cmNlcyI6WzM3LDUwXX0=.G35tE1oqGIVbFQRu75D23YWAEBjgjtBHaR2nl-ODOP7OpMGnKhjRdJFS4fAu3WaUDXTr0TQ6yaRpdRg7cxTt8w==/live/eds/KTN/DASH/KTN.mpd
+https://live3.shoq.com.pk/live/eds/KTN/DASH/KTN.mpd
 
 
 
@@ -541,16 +541,16 @@ http://live3.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
 http://live1.shoq.com.pk/live/eds/Movie_One/DASH/Movie_One.mpd
 
 #EXTINF:-1 tvg-id="bbcfirst" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/BBCFIRSTCATCHUPY2023M/BBCFIRSTCATCHUPY2023M-474x677-PST.jpg" group-title="Shoq Movies",BBC First
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA2MjI5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9CQkNfRmlyc3QvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE0YjQxYzk4NzU4MjMzYjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.uUv521OmktozyarOwTPxencfw-J8i7UBKcpU0ChigexQqKzdmgy0sl_vlGhuXOURCCYfQcwDqpn9j-DvghFD3A==/live/eds/BBC_First/DASH/BBC_First.mpd
+https://live1.shoq.com.pk/live/eds/BBC_First/DASH/BBC_First.mpd
 
 #EXTINF:-1 tvg-id="mbc2" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/MBC2CATCHUPY2023M/MBC2CATCHUPY2023M-474x677-PST.jpg" group-title="Shoq Movies",MBC 2
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1NjMyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9NQkMyL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiJlMTI4ODIwNDI2MmMxZTdkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIzMSIsInNvdXJjZXMiOlszNyw1MF19.qOWCRq479uc3cMVUapi1j002-031g_IW9CsCyQQAM5EjuJ4jwlzyhXb2xzFTPMAqkRL-6VgWjNOnUM5NPJvbDA==/live/eds/MBC2/DASH/MBC2.mpd
+https://live3.shoq.com.pk/live/eds/MBC2/DASH/MBC2.mpd
 
 #EXTINF:-1 tvg-id="mbcaction" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/MBCACTIONCATCHUPY2023M/MBCACTIONCATCHUPY2023M-474x677-PST.jpg" group-title="Shoq Movies",MBC Action
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1NzA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9NQkNfQWN0aW9uL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiIyMWQzODFjNmEzNDU1ZTZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.5awWu1njZE1Di92QLcyQxRhk_-4w6-IJK1lVF279VtT7CjsJ8qtAUxzQpD2RwvvSOE1TjT715oqWAH8YWDiyOg==/live/eds/MBC_Action/DASH/MBC_Action.mpd
+https://live1.shoq.com.pk/live/eds/MBC_Action/DASH/MBC_Action.mpd
 
 #EXTINF:-1 tvg-id="mbcmax" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/MBCMAXCATCHUPY2023M/MBCMAXCATCHUPY2023M-474x677-PST.jpg" group-title="Shoq Movies",MBC MAX
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1Nzg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9NQkNNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhkYmZiNTc2YWEwNTU3ZDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.v-2B6cWPz03fBDGM1zoGmW9-aaUNx28q9JsyqYsi83nK8yUdEgGXdv3ldfguVNgrvf72F_Q-tl6BeR0_Ffj6FQ==/live/eds/MBCMAX/DASH/MBCMAX.mpd
+https://live1.shoq.com.pk/live/eds/MBCMAX/DASH/MBCMAX.mpd
 
 ########FOOD########
 
@@ -589,13 +589,13 @@ https://live.shoq.com.pk/live/eds/ARY_Muzik/DASH/ARY_Muzik.mpd
 ########Religion########
 
 #EXTINF:-1 tvg-id="alquran" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/ALQURANALKAREEMCATCHUPY2023MAR/ALQURANALKAREEMCATCHUPY2023MAR-474x677-PST.jpg" group-title="Shoq Religion",Al Quran
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA2NTQ3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BbFF1cmFuL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiI2MWExZmIxMjdiM2M0MzZiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.NRTND9EoeDsOdEBA0a_G-2a1aGe8isUelDAycodoNjupegpXtFaKpMYynySKTEQtrQ_Qecl0L-bL35hT8U888g==/live/eds/AlQuran/DASH/AlQuran.mpd
+https://live1.shoq.com.pk/live/eds/AlQuran/DASH/AlQuran.mpd
 
 #EXTINF:-1 tvg-id="alsunnahnabvi" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/ALSUNNAHALNABAVIY2023M/ALSUNNAHALNABAVIY2023M-474x677-PST.jpg" group-title="Shoq Religion",Al Sunnah Nabvi
-https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1ODg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BTF9TdW5uYWhfTmFiYXZpL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiI2MGJiMDM4NWQ5NzgwYjM1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.rY6emSiHLbt_kFVQcGombSSR9AM7MHkQKQWeUOV4-22wE4DLHsBVBUcfJ0DMl_G2gu_zvD_oYxjCfNyrWSJT3g==/live/eds/AL_Sunnah_Nabavi/DASH/AL_Sunnah_Nabavi.mpd
+https://live1.shoq.com.pk/live/eds/AL_Sunnah_Nabavi/DASH/AL_Sunnah_Nabavi.mpd
 
 #EXTINF:-1 tvg-id="peachtv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/livechannels/PEACETVY2023M/PEACETVY2023M-474x677-PST.jpg" group-title="Shoq Religion",Peace TV
-https://live3.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5NTA1MTYzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9QZWFjZV9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMDZiYmExYWY3MjllNDgxOCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzEiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.TVZbiKY1izkuFHE--GmW8t1f2NClh83K6eYF6Q3vPIcC7T9-cHUM_1JSfB4sf_ow9iBZQDpR1ajbepbeGQd3xA==/live/eds/Peace_TV/DASH/Peace_TV.mpd
+https://live3.shoq.com.pk/live/eds/Peace_TV/DASH/Peace_TV.mpd
 
 #EXTINF:-1 tvg-id="paighamtv" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/PAIGHAMTVCATCHUPY2023MUR/PAIGHAMTVCATCHUPY2023MUR-474x677-PST.jpg" group-title="Shoq Religion",PAIGHAM_TV
 #KODIPROP:inputstream=inputstream.adaptive
